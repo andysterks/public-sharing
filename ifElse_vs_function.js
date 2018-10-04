@@ -14,3 +14,12 @@ function(number) {
 	number++;
 	return;
 }
+
+// 
+function(number) {
+    if (number > 0) {
+    	return;
+    }
+	
+    number++;
+}
